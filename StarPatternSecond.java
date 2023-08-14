@@ -6,6 +6,7 @@
 ------------
 */
 class StarPatternSecond{
+//main method
     public static void main(String[] args){
         //i=line change
         for(int i=3;i>=1;i--){
