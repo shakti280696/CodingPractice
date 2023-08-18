@@ -1,4 +1,5 @@
 /*
+create a pattern:
 ------------
 *****
 ****
@@ -28,3 +29,4 @@ class StarPatternThree{
         } 
     }
 }
+//end of program
