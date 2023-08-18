@@ -1,5 +1,5 @@
 /*
-create a pattern:
+create a star pattern as shown below:
 ------------
 *****
 ****
@@ -29,4 +29,5 @@ class StarPatternThree{
         } 
     }
 }
-//end of program
+// program end
+// shakti
