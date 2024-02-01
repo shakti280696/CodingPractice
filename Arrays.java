@@ -1,4 +1,5 @@
 class Arrays{
+    //main method
     public static void main(String[] args){
         //print items of array
         int[] arr = {1,2,3,4,5};
